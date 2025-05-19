@@ -16,8 +16,8 @@
 
 ## 📈 GitHub Stats
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=visiondev&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=visiondev&layout=compact)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=snwfldp&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snwfldp&layout=compact)
 
 ## 📝 Blog
 
