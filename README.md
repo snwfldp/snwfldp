@@ -11,7 +11,8 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-EE4C2C?style=flat&logo=linux&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ## 📈 GitHub Stats
 
@@ -20,7 +21,7 @@
 
 ## 📝 Blog
 
-[Medium](https://medium.com/@sdbrandon0408)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@sdbrandon0408)
 
 ---
 
